@@ -1,0 +1,2 @@
+Disallow: /imagenes/firma-5th-imrmpt.png
+Disallow: /imagenes/Firma-Ely.png

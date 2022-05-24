@@ -1,0 +1,34 @@
+		<jsp:include page="banner/header.jsp"></jsp:include>
+        
+        <section id="uno" class="container-fluid" style="background-image:url(imagenes/bg_origen.gif); background-repeat: no-repeat; background-size:50vh; background-position: bottom; background-size: contain; width:100%; padding: 0px;">
+        	<div class="row p-0 m-0" style="height:auto;" >  
+		        <div class="col-12" style="" >
+		        <img id="fotoAnimez" class="d-block img-fluid carrucel_noticias" src="imagenes/estructura.png" alt="" style="z-index: 1;position: absolute; top: -10px; left:-90px; width: 25%;">          
+		        </div>
+		    </div>
+		    
+		        
+		    <div class="container-fluid p-0" style="height: 170px; background-color:#0A2023; top: 400px">
+		      <div class="container-fluid p-0 m-0" style="height: 70px; background-color:white; top: 30px">
+		       </div>   
+		        <div class="container" style="">
+		            <div class="row p-1 m-0 d-flex justify-content-end align-items-center" style="">            
+		            <div class="col-8 p-0 d-flex justify-content-end" style="max-height:100px; background-image:url(imagenes/hotel-5imrmpt.jpg); background-repeat:repeat-x; background-size: cover; background-position:bottom" >            
+		                  <img id="" class="animated wow slideInLeft img-fluid" style="height: 90px" src="imagenes/12345Fondo.png" >              
+		            </div>
+		            <div class="col-4 p-0" style="max-height:100px">            
+		                  <img id="" class="animated wow pulse img-fluid" style="height: 90px" src="imagenes/titulo-5imrmpt1-medio.png" >              
+		            </div>
+		            </div>            
+		        </div>
+		    </div>
+		    <div class="container p-0 p-sm-2 p-md-5" style="">
+		    	<div class="row p-0 mt-5" style="">
+		    		<div class="col-xl-10 col-lg-10 col-md-10 col-sm-10 col-12 borde-tabla2 fonto-tabla p-4" style="">
+		    			<div class="titulos" style="text-align: left; "><span style="color:#0A2023; font-size: 1.5em">Register</span><br><br></div>
+		    		</div>
+		    		<div id="estructura-lateral-2" class="col-2 fonto-tabla " style="background-image:url(imagenes/estructura-lateral2.png); background-repeat: no-repeat; background-position: bottom left; background-size:cover; width:100%; border:solid 11px #0A2023; border-width:0px 10px 0px 0px;">
+		        	</div>
+		    	</div>
+		    </div>		           
+        </section>
